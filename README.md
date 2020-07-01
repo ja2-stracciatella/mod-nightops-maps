@@ -8,4 +8,4 @@ This map pack contains more than 60 town and strategically important sectors fro
 
 ## Installation
 
-Download the contents of this repository, and put them in a directory under Stracciatella's `mods` directory. Enable the mod via launcher or command line args.
+[Download](https://github.com/ja2-stracciatella/mod-nightops-maps/archive/master.zip) the contents of this repository, and put them in a directory under Stracciatella's `mods` directory. Enable the mod via launcher or command line args.
