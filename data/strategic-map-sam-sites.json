@@ -1,0 +1,18 @@
+[
+    {   // SAM_SITE_ONE
+        "sector": "D2",
+        "gridNos": [ 10196, 10195 ]
+    },
+    {   // SAM_SITE_TWO
+        "sector": "D15",
+        "gridNos": [ 11295, 11135 ]
+    },
+    {   // SAM_SITE_THREE
+        "sector": "I8",
+        "gridNos": [ 11747, 11587 ]  // NightOps maps
+    },
+    {   // SAM_SITE_FOUR
+        "sector": "N4",
+        "gridNos": [ 11913, 11912 ]
+    }
+]
